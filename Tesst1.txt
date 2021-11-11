@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 privet: my change
 
+=======
+privet: 
+a
+>>>>>>> New_Branch_2
